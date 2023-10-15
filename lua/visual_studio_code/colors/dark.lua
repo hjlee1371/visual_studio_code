@@ -31,6 +31,7 @@ return {
 	__vscode_file = "#9CDCFE",
 	__vscode_head = "#C586C0",
 	__vscode_number = "#B5CEA8",
+	__vscode_constant = "#569CD6",
 	__vscode_define_foreground = "#B4B4B4",
 	__vscode_tag_foreground = "#D09E4C",
 	__vsocode_tag_warpper_foreground = "#808080",
